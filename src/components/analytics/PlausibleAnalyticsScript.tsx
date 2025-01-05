@@ -6,7 +6,7 @@ const plausibleUrl = process.env.NEXT_PUBLIC_PLAUSIBLE_URL!;
 
 export function PlausibleAnalyticsScript() {
   return (
-    <Script
+    <script
       defer
       type="text/javascript"
       data-domain={plausibleUrl}
