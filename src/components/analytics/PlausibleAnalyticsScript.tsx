@@ -11,7 +11,7 @@ export function PlausibleAnalyticsScript() {
       type="text/javascript"
       data-domain={plausibleUrl}
       // src="https://plausible.io/js/script.js"
-      src="https://click.pageview.click/js/script.js"
+      src="https://analytics.24kwebgames.com/js/script.js"
     />
   );
 }
