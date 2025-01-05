@@ -58,12 +58,7 @@
     "tags": ["NoSQL", "key-value", "high-performance"]
   },
   // S
-  {
-    "name": "Supabase",
-    "description": "An open-source Firebase alternative that provides real-time databases, authentication, and storage services.",
-    "url": "https://supabase.com/",
-    "tags": ["open-source", "PostgreSQL", "realtime"]
-  },
+
   // T
   // U
   // V

@@ -1,69 +1,69 @@
 {
   "home": {
-    "meta_title": "DevToolset: Open-Source Database-free Developer Tools Navigator",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2": "Open-Source & Database-Free Developer Tools Navigator",
-    "description": "Find Every Essential Developer Tools You Need for Your Development Journey"
+    "meta_title": "Rivals Codes Hub - Your Ultimate Cheat Codes Destination",
+    "meta_description": "Unlock exclusive game rewards with our extensive collection of Rivals Codes. Find cheat codes for popular games like Marvel Rivals, Need for Speed Rivals, and Beyblade Burst Rivals.",
+    "h2": "Comprehensive Cheat Codes Database for Rivals Games",
+    "description": "Discover a wide range of Rivals Codes to enhance your gaming experience. Our database is regularly updated with the latest cheat codes for various platforms, including PC, PS4, Xbox, and Roblox."
   },
   "category": {
-    "meta_title": "Category",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "meta_title": "Rivals Codes Categories",
+    "meta_description": "Browse through our categorized Rivals Codes to find cheat codes tailored to your favorite games and platforms.",
     "homeBtn": "Home",
-    "categoryBtn": "Category",
-    "h1": "Develop Tools Category",
-    "h2": "Find Every Developer Tools You Need Here",
-    "h2description": "All developer tools are sorted alphabetically"
+    "categoryBtn": "Categories",
+    "h1": "Rivals Codes Categories",
+    "h2": "Explore Cheat Codes by Game and Platform",
+    "h2description": "All Rivals Codes are sorted by game and platform for easy navigation."
   },
   "article": {
-    "meta_title": "Article",
-    "meta_description": "Read our latest articles on newest developer tools and best practices.",
+    "meta_title": "Rivals Codes Articles",
+    "meta_description": "Stay informed with our latest articles on Rivals Codes, featuring tips, tricks, and updates on cheat codes for popular games.",
     "h1": "Articles",
-    "h2": "Read More About DevToolset",
+    "h2": "Learn More About Rivals Codes",
     "homeBtn": "Home",
-    "articleBtn": "Article",
-    "backToArticles": "Back to articles"
+    "articleBtn": "Articles",
+    "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog",
-    "meta_description": "Stay up to date with the latest updates in DevToolset.net",
+    "meta_title": "Rivals Codes Changelog",
+    "meta_description": "Keep up with the latest updates and additions to our Rivals Codes database.",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates in DevToolset.net",
+    "h2": "Latest Updates in Rivals Codes",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2_1": "All developer tools related to",
-    "h2_2": "",
+    "meta_description": "Find essential tools and resources to help you make the most of Rivals Codes.",
+    "h2_1": "Developer tools related to",
+    "h2_2": "Rivals Codes",
     "homeBtn": "Home"
   },
   "search": {
-    "input_placeholder": "Search tools by name / tags...",
+    "input_placeholder": "Search Rivals Codes by game / platform...",
     "heading": "Suggestions",
     "more": "More",
     "button": "Search"
   },
   "navigation": {
     "homeBtn": "Home",
-    "categoryBtn": "Category",
+    "categoryBtn": "Categories",
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
-    "articleBtn": "Article",
-    "articleDescription": "Open-Source Database-free Developer Tools Navigator",
-    "article1Title": "Adding New Developer Tools to DevToolset",
-    "article2Title": "Deploy your own DevToolset",
+    "articleBtn": "Articles",
+    "articleDescription": "Stay updated with the latest news and tips on Rivals Codes.",
+    "article1Title": "Unlocking Rewards with Marvel Rivals Codes",
+    "article2Title": "Maximizing Fun with Need for Speed Rivals Codes",
     "moreArticleBtn": "More",
-    "moreArticleDescription": "More articles",
+    "moreArticleDescription": "Explore more articles",
     "changelogBtn": "Changelog",
-    "submitToolBtn": "Submit Tool"
+    "submitToolBtn": "Submit Rivals Codes"
   },
   "footer": {
-    "description": "OpenSource & Database-free Developer Tools Navigator",
+    "description": "Your go-to destination for Rivals Codes and gaming cheat codes.",
     "builtWith": "Built with",
     "quickLinks": "Quick Links",
     "home": "Home",
-    "category": "Category",
-    "article": "Article",
+    "category": "Categories",
+    "article": "Articles",
     "changelog": "Changelog",
     "privacy": "Privacy",
     "termsOfService": "Terms of Service",

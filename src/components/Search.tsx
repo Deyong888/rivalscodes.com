@@ -32,11 +32,11 @@ export function Search({ className }: { className?: string }) {
                     <CommandGroup heading={t('heading')}>
                         <CommandItem onSelect={() => window.location.href = '/tools/ai'}>
                             <LightningBoltIcon className="mr-2 h-4 w-4" />
-                            <span>AI</span>
+                            <span>Rivals Codes</span>
                         </CommandItem>
                         <CommandItem onSelect={() => window.location.href = '/tools/seo'}>
                             <GlobeIcon className="mr-2 h-4 w-4" />
-                            <span>SEO</span>
+                            <span>Fisch Codes</span>
                         </CommandItem>
                         <CommandItem disabled>
                             <DotsHorizontalIcon className="mr-2 h-4 w-4" />

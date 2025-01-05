@@ -107,7 +107,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
               height={size}
               alt="DomainScore"
             />
-            <span className="inline-block font-bold">Dev Toolset</span>
+            <span className="inline-block font-bold">RivalsCodes</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
@@ -156,7 +156,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Dev Toolset
+                              RivalsCodes
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}

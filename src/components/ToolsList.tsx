@@ -46,7 +46,7 @@ type toolProps = {
   url: string,
   icon_url?: string,
   tags?: string[]
-  
+  add_date?: string[]
 }
 
 
@@ -149,7 +149,8 @@ const ToolsPage = ({ category, locale }: { category: categoryProps, locale: stri
                   ))}
                 </div> :
                  null
-                }     
+                }
+    
               </CardDescription>
             </CardHeader>
           </Card>

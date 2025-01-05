@@ -1,0 +1,46 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+[
+  // A
+  // B
+  // C
+  {
+    "name": "Rivals Codes January 2025",
+    "description": "The newest RIVALS code is COMMUNITY10, which players can redeem to get a free Community Wrap.",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["COMMUNITY10 - Random Weapon Wrap","COMMUNITY8 - Community weapon wrap"]
+  },
+  {
+    "name": "Rivals Codes February  2025",
+    "description": "This newest RIVALS code is Active,and will be updated as a top priority",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["roblox_rtc: Redeem for 5 Keys","COMMUNITY8 - Community weapon wrap"]
+  },
+  // D
+  {
+    "name": "Rivals Codes March 2025",
+    "description": "This newest RIVALS code is Active,and will be updated as a top priority",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["THANKYOU_1BVISITS!: Redeem for 1B Visits Wrap (All Weapons)","BONUS - One key"]
+  },
+  {
+    "name": "Rivals Codes April 2025",
+    "description": "This newest RIVALS code is Active,and will be updated as a top priority",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["100MVISITS - 100M visits charm","COMMUNITY5 - Community wrap"]
+  }
+  
+]

@@ -22,7 +22,7 @@ export function Footer() {
                   height={size}
                   alt="DomainScore"
                 />
-                <span className="inline-block font-bold">Dev Toolset</span>
+                <span className="inline-block font-bold">RivalsCodes</span>
               </Link>
             </h3>
             <p className="mt-4 text-xs ">
@@ -90,7 +90,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-8">
           <p className="text-base text-center">
-            &copy; {new Date().getFullYear()} DevToolset. {t('copyright')}
+            &copy; {new Date().getFullYear()} RivalsCodes. {t('copyright')}
           </p>
         </div>
       </div>

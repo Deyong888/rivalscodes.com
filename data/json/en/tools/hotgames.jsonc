@@ -1,0 +1,89 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+  // A
+  // B
+  // C
+  // D
+  // E
+  // F
+  // G
+  {
+    "name": "Fisch Codes",
+    "description": "Fisch codes will grant you cash, lure speed bonuses, and even fishing bobbers on Fisch",
+    "url": "https://www.roblox.com/games/16732694052/UPD-Fisch",
+    "tags": ["GOODBYEFISCHMAS-1x Aurora Bait, 3000 C$ (NEW!)"]
+  },
+  {
+    "name": "Fisch Codes X",
+    "description": "Fisch is an adventure RPG game on ROBLOX about... catching fish.",
+    "url": "https://x.com/FischOnROBLOX",
+    "tags": ["NewYear: 2x Holly Berry, 2x Pepermint Worms, 1000 C$"]
+  },
+
+  {
+    "name": "Fisch Codes Discord",
+    "description": "Fisch is the ultimate fishing adventure where exploration and progression are yours to control.",
+    "url": "https://discord.gg/cuKz5SK3md",
+    "tags": ["NorthernExpedition: 2x Holly Berry, 3x Pepermint Worms, 1000 C$"]
+  },
+
+  {
+    "name": "Fisch Guilded Community",
+    "description": "The Official Fisch Guilded Community Where you can find newest Fisch codes",
+    "url": "https://www.guilded.gg/i/E61eA9Bp",
+    "tags": ["RFG: 3 Instant Catchers"]
+  },
+  // H
+  // I
+  // J
+  // K
+  // L
+  // M
+  // N
+  // O
+  // P
+  {
+    "name": "Dti Codes",
+    "description": "Find all Dress To Impress codes easily, on one screen! Use the dti code below to create the most stylish outfits",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["NY2025 - New Year's hat and balloons (NEW!)"]
+  },
+  {
+    "name": "Dti Codes",
+    "description": "Dress To Impress is about showing off your fashion creativity. Participate in themed contests to earn stars 🌟",
+    "url": "https://www.roblox.com/games/130220127721375/NEW-DRESS-To-Impress-Codes-Christmas-FREE-Items",
+    "tags": ["1CON1CF4TMA - Sweater dress"]
+  },
+  {
+    "name": "Old Dti Codes Official",
+    "description": "Express your style, meet new people, and embark on a fashion journey in the world of Dress To Impress! 💖",
+    "url": "https://www.roblox.com/games/133698404092284/Old-DTI-Modded-NEW-YEARS",
+    "tags": ["B3APL4YS_D0L1E - Doll accessory"]
+  },
+  {
+    "name": "Dti Codes Guilded Community",
+    "description": "Official Dress To Impress",
+    "url": "https://www.guilded.gg/i/E9JNdBX2",
+    "tags": ["B3APL4YS_D0L1E - Doll accessory"]
+  },
+  // V
+  // W
+  // X
+  // Y
+  // Z
+]
