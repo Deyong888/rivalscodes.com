@@ -1,0 +1,79 @@
+// example data
+// {
+//  "name":"Tailwind CSS",
+//  "description":"A utility-first CSS framework",
+//  "url":"https://tailwindcss.com/",
+//  "tags": ["a","b"], (Optional, 3tags max)
+//  "add_date":"yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+
+  {
+    "name": "Fisch 兑换码",
+    "description": "Fisch代码将授予你现金，诱饵速度加成，甚至在Fisch上获得钓鱼浮标。",
+    "url": "https://www.roblox.com/games/16732694052/UPD-Fisch",
+    "tags": ["GOODBYEFISCHMAS-1x 极光诱饵, 3000 C$ (NEW!)"]
+  },
+  {
+    "name": "Fisch Codes X",
+    "description": "Fisch是ROBLOX上的一款关于捕鱼的冒险RPG游戏。",
+    "url": "https://x.com/FischOnROBLOX",
+    "tags": ["NewYear: 2x Holly Berry, 2x Pepermint Worms, 1000 C$"]
+  },
+
+  {
+    "name": "Fisch Codes Discord",
+    "description": "Fisch是最终极的捕鱼冒险，探索和进步都由你掌控。",
+    "url": "https://discord.gg/cuKz5SK3md",
+    "tags": ["NorthernExpedition: 2x Holly Berry, 3x Pepermint Worms, 1000 C$"]
+  },
+
+  {
+    "name": "Fisch Guilded Community",
+    "description": "官方Fisch Guilded社区，在这里你可以找到最新的Fisch代码",
+    "url": "https://www.guilded.gg/i/E61eA9Bp",
+    "tags": ["RFG: 3 Instant Catchers"]
+  },
+  // H
+  // I
+  // J
+  // K
+  // L
+  // M
+  // N
+  // O
+  // P
+  {
+    "name": "Dti Codes",
+    "description": "轻松在一个屏幕上找到所有Dress To Impress代码！使用下面的dti代码来创建最时尚的装扮",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["NY2025 - New Year's hat and balloons (NEW!)"]
+  },
+  {
+    "name": "Dti Codes",
+    "description": "Dress To Impress是关于展示你的时尚创造力的。参加主题比赛来赚取星星 🌟",
+    "url": "https://www.roblox.com/games/130220127721375/NEW-DRESS-To-Impress-Codes-Christmas-FREE-Items",
+    "tags": ["1CON1CF4TMA - Sweater dress"]
+  },
+  {
+    "name": "Old Dti Codes Official",
+    "description": "在Dress To Impress的世界中表达你的风格，结识新朋友，开始一段时尚之旅！ 💖",
+    "url": "https://www.roblox.com/games/133698404092284/Old-DTI-Modded-NEW-YEARS",
+    "tags": ["B3APL4YS_D0L1E - Doll accessory"]
+  },
+  {
+    "name": "Dti Codes Guilded Community",
+    "description": "Dti代码Guilded社区",
+    "url": "https://www.guilded.gg/i/E9JNdBX2",
+    "tags": ["B3APL4YS_D0L1E - 娃娃配饰"]
+  },
+
+]

@@ -1,0 +1,47 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional)
+//   ...any other key if you want
+// }
+//
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+[
+  // A
+  // B
+  // C
+  {
+    "name": "2025年1月Rivals兑换码",
+    "description": "最新的RIVALS代码是COMMUNITY10，玩家可以兑换以获得免费的社区包装。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["COMMUNITY10 - 随机武器包装", "COMMUNITY8 - 社区武器包装"]
+  },
+  {
+    "name": "2025年2月Rivals兑换码",
+    "description": "这个最新的RIVALS代码是有效的，并将作为首要更新。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["roblox_rtc: 兑换5个钥匙", "COMMUNITY8 - 社区武器包装"]
+  },
+  {
+    "name": "2025年3月Rivals兑换码",
+    "description": "这个最新的RIVALS代码是有效的，并将作为首要更新。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": [
+      "THANKYOU_1BVISITS!: 兑换1B访问包装（所有武器）",
+      "BONUS - 一个钥匙"
+    ]
+  },
+  {
+    "name": "2025年4月Rivals兑换码",
+    "description": "这个最新的RIVALS代码是有效的，并将作为首要更新。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["100MVISITS - 100M访问魅力", "COMMUNITY5 - 社区包装"]
+  }
+]

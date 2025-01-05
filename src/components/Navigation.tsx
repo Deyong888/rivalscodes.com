@@ -164,10 +164,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
                           </a>
                         </NavigationMenuLink>
                       </li>
-                      <ListItem href="/article/add-new-developer-tools" title="Add Tools">
+                      <ListItem href="/article/active-fisch-codes-and-how-to-use" title="Rivals Codes">
                         {t('article1Title')}
                       </ListItem>
-                      <ListItem href="/article/deploy-own-devtoolset" title="Deploy DevToolset">
+                      <ListItem href="/article/comprehensive-roblox-rivals-codes" title="Roblox Codes">
                         {t('article2Title')}
                       </ListItem>
                       <ListItem href="/article" title={t('moreArticleBtn')} className='border border-muted  bg-gradient-to-b  from-muted/50 to-muted/20'>
@@ -178,7 +178,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                 </NavigationMenuItem>
                 <NavigationMenuItem>
                   <Link href="/changelog" legacyBehavior passHref>
-                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/changelog' === pathname && "font-extrabold")}>
+                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/article' === pathname && "font-extrabold")}>
                       {t('changelogBtn')}
                     </NavigationMenuLink>
                   </Link>
@@ -188,7 +188,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
           </nav>
         </div>
         <div className="flex items-center gap-3">
-          <Link href="/article/add-new-developer-tools" className='hidden md:block'>
+          <Link href="https://24kwebgames.com" className='hidden md:block'>
             <Button variant="outline" className='text-sm tracking-tight'>{t('submitToolBtn')}</Button>
           </Link>
           <div className="flex items-center gap-1">
@@ -197,7 +197,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
             
           </div>
           <Link
-            href={"https://github.com/iAmCorey/devtoolset"}
+            href={"https://buymeacoffee.com/xzywork7"}
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground ml-1"
