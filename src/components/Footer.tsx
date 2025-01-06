@@ -30,9 +30,9 @@ export function Footer() {
               
             </p>
             <div className='mt-4 text-xs '>
-              {t('builtWith')}
+              {t(' ')}
               <Link href="https://gitbase.app/" target='_black' className="ml-1 text-xs underline">
-                GitBase
+                 
               </Link>
             </div>
           </div>
@@ -80,7 +80,7 @@ export function Footer() {
             <h3 className="text-sm font-semibold tracking-wider uppercase">{t('connect')}</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <Link href={"mailto:iamcoreychiu+devtoolsetsupport@gmail.com"} className="text-base">
+                <Link href={"mailto:xzywork@gmail.com"} className="text-base">
                   {t('support')}
                 </Link>
               </li>
