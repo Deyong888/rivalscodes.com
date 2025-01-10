@@ -22,16 +22,16 @@ const sansFont = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: 'DevToolset: Open-Source Database-free Developer Tools Navigator',
+    default: 'Rivals Codes Hub - Your Ultimate Roblox Redeem Codes Destination',
     template: '%s | DevToolset'
   },
-  description: 'Explore Every Essential Developer Tools You Need For Your Development Journey',
-  authors: { name: 'DevToolset', url: 'https://DevToolset.net/' },
-  keywords: 'developer tools, dev tools, develop tool',
+  description: 'Get the latest Rivals Codes for free rewards in the Roblox shooter game. Explore up-to-date guides to enhance your gaming experience.Check out the latest redeem codes for 2025 now!',
+  authors: { name: 'Rivals Codes', url: 'https://rivalscodes.com/' },
+  keywords: 'Rivals Codes, Roblox Codes, Ficsh Codes',
   alternates: {
-    canonical: "https://DevToolset.net/", languages: {
-      "en-US": "https://DevToolset.net/en/",
-      "zh-CN": "https://DevToolset.net/zh/",
+    canonical: "https://rivalscodes.com/", languages: {
+      "en-US": "https://rivalscodes.com/en/",
+      "zh-CN": "https://rivalscodes.com/zh/",
     }
   },
   icons: [
