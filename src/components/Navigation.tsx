@@ -55,7 +55,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
     },
     {
       label: t('changelogBtn'),
-      href: "/changelog",
+      href: "https://24kwebgames.com/",
     },
   ];
   const isMenuItemActive = (href: string) => {
@@ -177,7 +177,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                   </NavigationMenuContent>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
-                  <Link href="/changelog" legacyBehavior passHref>
+                  <Link href="https://24kwebgames.com/" legacyBehavior passHref>
                     <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/article' === pathname && "font-extrabold")}>
                       {t('changelogBtn')}
                     </NavigationMenuLink>

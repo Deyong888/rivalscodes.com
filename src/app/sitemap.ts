@@ -26,19 +26,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: 'daily',
         priority: 0.8,
       },
-      {
-        url: 'changelog', // changelog
-        lastModified: new Date(),
-        changeFrequency: 'daily',
-        priority: 0.7,
-      },
+
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) => {
     const routeUrl = route.url === '' ? '' : `/${route.url}`;
     return {
         ...route,
-        url: `https://DevToolset.net${routeUrl}`,
+        url: `https://rivalscodes.com${routeUrl}`,
       };
     }
   );
