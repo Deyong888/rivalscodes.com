@@ -31,7 +31,7 @@ export function Footer() {
             </p>
             <div className='mt-4 text-xs '>
               {t(' ')}
-              <Link href="https://gitbase.app/" target='_black' className="ml-1 text-xs underline">
+              <Link href="https://24kwebgames.com/" target='_black' className="ml-1 text-xs underline">
                  
               </Link>
             </div>

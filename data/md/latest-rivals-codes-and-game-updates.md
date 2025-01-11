@@ -15,6 +15,7 @@ Rivals is a popular first-person shooter game on Roblox, offering both solo and 
 ## Latest Rivals Codes (January 2025)
 As of January 2025, the following codes are available for Rivals players:
 
+
 COMMUNITY10 - Redeem for a free Community Wrap. 
 COMMUNITY9 - Redeem for a free Community Wrap. 
 COMMUNITY8 - Redeem for a free Community Wrap. 

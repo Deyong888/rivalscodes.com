@@ -2,7 +2,7 @@
 import React from 'react'; // 确保导入 React
 import { useState, useEffect } from 'react'
 import { Link, usePathname }from "@/lib/i18n";
-import { Github, MenuIcon } from 'lucide-react'
+import { Coffee, MenuIcon } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
@@ -188,7 +188,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
           </nav>
         </div>
         <div className="flex items-center gap-3">
-          <Link href="https://24kwebgames.com" className='hidden md:block'>
+          <Link href="mailto:xzywork@gmail.com" className='hidden md:block'>
             <Button variant="outline" className='text-sm tracking-tight'>{t('submitToolBtn')}</Button>
           </Link>
           <div className="flex items-center gap-1">
@@ -202,8 +202,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground ml-1"
           >
-            <Github className="h-4 w-4" />
-            <span className="sr-only">GitHub</span>
+            <Coffee className="h-4 w-4" />
+            <span className="sr-only">Coffee</span>
           </Link>
           <Sheet
               open={mobileMenuOpen}
