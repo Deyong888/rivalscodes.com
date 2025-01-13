@@ -1,0 +1,42 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+[
+  {
+    "name": "ライバルズコード2025年1月",
+    "description": "最新のRIVALSコードはCOMMUNITY10で、プレイヤーは無料のコミュニティラップを手に入れることができます。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["コード:COMMUNITY10","報酬:ランダム武器ラップ","有効期限:まだ有効"]
+  },
+  {
+    "name": "ライバルズコード2025年2月",
+    "description": "この最新のRIVALSコードはアクティブで、最優先で更新されます。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["コード:roblox_rtc","報酬:5つのキーを引き換え","有効期限:まだ有効"]
+  },
+  // D
+  {
+    "name": "ライバルズコード2025年3月",
+    "description": "この最新のRIVALSコードはアクティブで、最優先で更新されます。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["コード:THANKYOU_1BVISITS!","報酬:1Bビジットラップ（すべての武器）","有効期限:まだ有効"]
+  },
+  {
+    "name": "ライバルズコード2025年4月",
+    "description": "この最新のRIVALSコードはアクティブで、最優先で更新されます。",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["コード:100MVISITS","報酬:100Mビジットチャーム","有効期限:まだ有効"]
+  }
+]

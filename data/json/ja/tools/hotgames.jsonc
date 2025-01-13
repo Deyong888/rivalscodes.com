@@ -1,0 +1,86 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+
+  {
+    "name": "フィッシュコード",
+    "description": "フィッシュコードは現金、ルアーのスピードボーナス、さらにはフィッシュの釣りボバーを提供します。",
+    "url": "https://www.roblox.com/games/16732694052/UPD-Fisch",
+    "tags": ["コード:GOODBYEFISCHMAS","報酬:1xオーロラベイト、3000C$ (新着!)","有効期限:まだ有効"]
+  },
+  {
+    "name": "フィッシュコードX",
+    "description": "フィッシュはROBLOXの冒険RPGゲームで、魚を捕まえることについてです。",
+    "url": "https://x.com/FischOnROBLOX",
+    "tags": ["コード:NewYear: 2xホリーベリー","報酬: 2xペパーミントワーム、1000C$","有効期限:まだ有効"]
+  },
+
+  {
+    "name": "フィッシュコードディスコード",
+    "description": "フィッシュは探検と進行をあなたがコントロールできる究極の釣り冒険です。",
+    "url": "https://discord.gg/cuKz5SK3md",
+    "tags": ["コード:NorthernExpedition","報酬: 2xホリーベリー、3xペパーミントワーム、1000C$","有効期限:まだ有効"]
+  },
+
+  {
+    "name": "フィッシュギルデッドコミュニティ",
+    "description": "最新のフィッシュコードを見つけることができる公式フィッシュギルデッドコミュニティ",
+    "url": "https://www.guilded.gg/i/E61eA9Bp",
+    "tags": ["RFG: 3インスタントキャッチャー","有効期限:まだ有効"]
+  },
+
+  {
+    "name": "ブルーロックライバルズコード",
+    "description": "ブルーロックライバルズコードは、プレイヤーに現金ボーナス、追加スピン、ユニークなゲーム内アイテムなど、さまざまな報酬を提供します。",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["コード:35KCHROLLO","報酬:無料報酬を引き換え"]
+  },
+
+  {
+    "name": "マーベルライバルズコード",
+    "description": "このコードは、黒と金のアーマーに赤い目、チェストプレート、レプルサービームを備えた独特のアイアンマンアーマーモデル42スキンを提供します。",
+    "url": "https://rivalscodes.com",
+    "tags": ["コード: NWARH4K3XQY","報酬: アイアンマンアーマーモデル42スキン","有効期限:2025年3月5日"]
+  },
+
+  {
+    "name": "旧DTIコード公式",
+    "description": "スタイルを表現し、新しい人々と出会い、Dress To Impressの世界でファッションの旅に出ましょう！💖",
+    "url": "https://www.roblox.com/games/133698404092284/Old-DTI-Modded-NEW-YEARS",
+    "tags": ["B3APL4YS_D0L1E - ドールアクセサリー"]
+  },
+  {
+    "name": "DTIコードギルデッドコミュニティ",
+    "description": "公式Dress To Impress",
+    "url": "https://www.guilded.gg/i/E9JNdBX2",
+    "tags": ["B3APL4YS_D0L1E - ドールアクセサリー"]
+  },
+
+  {
+    "name": "DTIコード",
+    "description": "Dress To Impressは、ファッションの創造性を披露することに関するものです。テーマ別コンテストに参加して星を獲得しましょう🌟",
+    "url": "https://www.roblox.com/games/130220127721375/NEW-DRESS-To-Impress-Codes-Christmas-FREE-Items",
+    "tags": ["1CON1CF4TMA - セーターのドレス"]
+  },
+  {
+    "name": "DTIコード",
+    "description": "すべてのDress To Impressコードを簡単に見つけることができます！以下のDTIコードを使用して、最もスタイリッシュなアウトフィットを作成しましょう。",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["NY2025 - 新年の帽子と風船 (新着!)"]
+  },
+
+]

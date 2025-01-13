@@ -83,6 +83,15 @@ export default function CategoryPage() {
         <Link href="/admin/category/zh">
           <Button>zh</Button>
         </Link>
+        <Link href="/admin/category/ja">
+          <Button>ja</Button>
+        </Link>
+        <Link href="/admin/category/tl">
+          <Button>tl</Button>
+        </Link>
+        <Link href="/admin/category/mn">
+          <Button>mn</Button>
+        </Link>
       </div>
       <div className="my-8">
         <Button onClick={handleLogout}>Log out</Button>

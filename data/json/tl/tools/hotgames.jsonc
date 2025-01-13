@@ -1,0 +1,77 @@
+// halimbawa ng data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "Isang utility-first na CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Opsyonal, max 3 tags)
+//   "add_date": "yyyy-MM-dd" (Opsyonal) 
+//   ...anumang iba pang key kung nais mo
+// }
+// 
+// Paalala:
+// 1. Lahat ng data ay dapat ayusin ayon sa alpabeto.
+// 2. Hindi pinapayagan ang mga affiliate link.
+// 3. Huwag magsumite ng mga tool na hindi nauugnay sa pag-unlad.
+
+[
+  {
+    "name": "Fisch Codes",
+    "description": "Ang mga Fisch code ay magbibigay sa iyo ng cash, lure speed bonuses, at maging ng fishing bobbers sa Fisch",
+    "url": "https://www.roblox.com/games/16732694052/UPD-Fisch",
+    "tags": ["Code:GOODBYEFISCHMAS","Reward:1x Aurora Bait, 3000 C$ (BAGO!)","Expiration:Still Active"]
+  },
+  {
+    "name": "Fisch Codes X",
+    "description": "Ang Fisch ay isang adventure RPG game sa ROBLOX tungkol sa... paghuli ng isda.",
+    "url": "https://x.com/FischOnROBLOX",
+    "tags": ["Code:NewYear: 2x Holly Berry","Reward: 2x Pepermint Worms, 1000 C$","Expiration:Still Active"]
+  },
+  {
+    "name": "Fisch Codes Discord",
+    "description": "Ang Fisch ay ang ultimate fishing adventure kung saan ang exploration at progression ay nasa iyong kontrol.",
+    "url": "https://discord.gg/cuKz5SK3md",
+    "tags": ["Code:NorthernExpedition","Reward: 2x Holly Berry, 3x Pepermint Worms, 1000 C$","Expiration:Still Active"]
+  },
+  {
+    "name": "Fisch Guilded Community",
+    "description": "Ang Opisyal na Fisch Guilded Community Kung saan maaari mong mahanap ang pinakabagong Fisch codes",
+    "url": "https://www.guilded.gg/i/E61eA9Bp",
+    "tags": ["RFG: 3 Instant Catchers","Expiration:Still Active"]
+  },
+  {
+    "name": "Blue Lock Rivals Codes",
+    "description": "Ang Blue Lock Rivals Codes ay nag-aalok sa mga manlalaro ng iba't ibang gantimpala, tulad ng cash bonuses, karagdagang spins, at natatanging in-game items.",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["Code:35KCHROLLO","Reward:I-redeem para sa libreng gantimpala","Kailangan ng level 10"]
+  },
+  {
+    "name": "Marvel Rivals Codes",
+    "description": "Ang code na ito ay nagbibigay sa iyo ng natatanging Iron Man Armor Model 42 skin, na may itim at gintong armor na may pulang mata, chest plate, at repulsor beams.",
+    "url": "https://rivalscodes.com",
+    "tags": ["Code: NWARH4K3XQY","Reward: Iron Man Armor Model 42 Skin","Expiration:March 5, 2025"]
+  },
+  {
+    "name": "Old Dti Codes Official",
+    "description": "Ipakita ang iyong estilo, makipagkita sa mga bagong tao, at simulan ang isang fashion journey sa mundo ng Dress To Impress! 💖",
+    "url": "https://www.roblox.com/games/133698404092284/Old-DTI-Modded-NEW-YEARS",
+    "tags": ["B3APL4YS_D0L1E - Doll accessory"]
+  },
+  {
+    "name": "Dti Codes Guilded Community",
+    "description": "Opisyal na Dress To Impress",
+    "url": "https://www.guilded.gg/i/E9JNdBX2",
+    "tags": ["B3APL4YS_D0L1E - Doll accessory"]
+  },
+  {
+    "name": "Dti Codes",
+    "description": "Ang Dress To Impress ay tungkol sa pagpapakita ng iyong fashion creativity. Makilahok sa mga temang paligsahan upang makakuha ng mga bituin 🌟",
+    "url": "https://www.roblox.com/games/130220127721375/NEW-DRESS-To-Impress-Codes-Christmas-FREE-Items",
+    "tags": ["1CON1CF4TMA - Sweater dress"]
+  },
+  {
+    "name": "Dti Codes",
+    "description": "Madaling hanapin ang lahat ng Dress To Impress codes, sa isang screen lang! Gamitin ang dti code sa ibaba upang lumikha ng pinaka-stylish na outfits",
+    "url": "https://www.roblox.com/games/18774268423/UGC-DTI-Code-Database",
+    "tags": ["NY2025 - New Year's hat and balloons (BAGO!)"]
+  }
+]

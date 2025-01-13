@@ -1,0 +1,83 @@
+{
+  "home": {
+    "meta_title": "Rivals Codes Hub - Таны Ultimate Roblox Redeem Codes Зорилго",
+    "meta_description": "Roblox буудлагын тоглоомд үнэгүй шагнал авах хамгийн сүүлийн үеийн Rivals Codes-г аваарай. Тоглоомын туршлагыг сайжруулах хамгийн сүүлийн үеийн гарын авлагыг судлаарай. 2025 оны хамгийн сүүлийн үеийн redeem codes-г одоо шалгаарай!",
+    "h2": "Rivals Тоглоомын Бүрэн Дүүрэн Кодын Мэдээллийн Сан",
+    "description": "Тоглоомын туршлагыг сайжруулах өргөн хүрээний Rivals Codes-г нээж аваарай. Манай мэдээллийн сан нь PC, PS4, Xbox, болон Roblox зэрэг олон платформд зориулсан хамгийн сүүлийн үеийн redeem codes-ээр тогтмол шинэчлэгддэг."
+  },
+  "category": {
+    "meta_title": "Rivals Codes Ангиллууд",
+    "meta_description": "Таны дуртай тоглоом болон платформд зориулсан redeem codes-г олохын тулд манай ангилсан Rivals Codes-г үзээрэй.",
+    "homeBtn": "Нүүр",
+    "categoryBtn": "Ангиллууд",
+    "h1": "Rivals Codes Ангиллууд",
+    "h2": "Тоглоом болон Платформоор Redeem Codes-г Судлаарай",
+    "h2description": "Бүх Rivals Codes нь тоглоом болон платформоор хялбар навигац хийхээр ангилагдсан."
+  },
+  "article": {
+    "meta_title": "Rivals Codes Нийтлэлүүд",
+    "meta_description": "Rivals Codes-ийн талаархи хамгийн сүүлийн үеийн нийтлэлүүдийг үзэж, алдартай тоглоомын redeem codes-ийн зөвлөмж, аргачлал, шинэчлэлтүүдийг үзээрэй.",
+    "h1": "Нийтлэлүүд",
+    "h2": "Rivals Codes-ийн талаар илүү ихийг сур",
+    "homeBtn": "Нүүр",
+    "articleBtn": "Нийтлэлүүд",
+    "backToArticles": "Нийтлэлүүд рүү буцах"
+  },
+  "changelog": {
+    "meta_title": "Rivals Codes Өөрчлөлтийн Түүх",
+    "meta_description": "Манай Rivals Codes мэдээллийн сангийн хамгийн сүүлийн үеийн шинэчлэлтүүд болон нэмэлтүүдийг хянаж байгаарай.",
+    "h1": "Өөрчлөлтийн Түүх",
+    "h2": "Rivals Codes-ийн Хамгийн Сүүлийн Үеийн Шинэчлэлтүүд",
+    "homeBtn": "Нүүр",
+    "changelogBtn": "Өөрчлөлтийн Түүх"
+  },
+  "tools": {
+    "meta_description": "Rivals Codes-г хамгийн их ашиглахад туслах чухал хэрэгслүүд болон нөөцийг олоорой.",
+    "h2_1": "Хөгжүүлэгчийн хэрэгслүүд",
+    "h2_2": "Rivals Codes",
+    "homeBtn": "Нүүр"
+  },
+  "search": {
+    "input_placeholder": "Тоглоом / платформоор Rivals Codes-г хайх...",
+    "heading": "Санал болгож буй",
+    "more": "Илүү их",
+    "button": "Хайх"
+  },
+  "navigation": {
+    "homeBtn": "Нүүр",
+    "categoryBtn": "Ангиллууд",
+    "moreCategoryBtn": "Илүү их",
+    "moreCategoryDescription": "Илүү олон ангилал",
+    "articleBtn": "Нийтлэлүүд",
+    "articleDescription": "Rivals Codes-ийн талаархи хамгийн сүүлийн үеийн мэдээ болон зөвлөмжүүдийг хянаж байгаарай.",
+    "article1Title": "Marvel Rivals Codes-ээр Шагналуудыг Нээх",
+    "article2Title": "Need for Speed Rivals Codes-ээр Хөгжилтэйг Хамгийн Ихээр Нэмэгдүүлэх",
+    "moreArticleBtn": "Илүү их",
+    "moreArticleDescription": "Илүү олон нийтлэлүүдийг судлаарай",
+    "changelogBtn": "Вэб Тоглоомуудыг Тоглох",
+    "submitToolBtn": "Rivals Codes-г Илгээх"
+  },
+  "footer": {
+    "description": "Rivals Codes болон тоглоомын redeem codes-ийн таны очих газар.",
+    "builtWith": "Бүтээсэн",
+    "quickLinks": "Түргэн Холбоосууд",
+    "home": "Нүүр",
+    "category": "Ангиллууд",
+    "article": "Нийтлэлүүд",
+    "changelog": "Өөрчлөлтийн Түүх",
+    "privacy": "Нууцлал",
+    "termsOfService": "Үйлчилгээний Нөхцөл",
+    "legal": "Хууль эрх зүй",
+    "connect": "Холбогдох",
+    "support": "Дэмжлэг",
+    "copyright": "Бүх эрх хуулиар хамгаалагдсан."
+  },
+  "toolsList": {
+    "more": "Илүү их",
+    "tools": "хэрэгслүүд"
+  },
+  "articleList": {
+    "h2": "Нийтлэлүүд",
+    "moreArticles": "Илүү олон нийтлэлүүд"
+  }
+}

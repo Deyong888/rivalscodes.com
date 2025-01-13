@@ -1,0 +1,83 @@
+{
+  "home": {
+    "meta_title": "ライバルズ コードハブ - 究極のRobloxコード交換プラットフォーム",
+    "meta_description": "Robloxシューターゲームで無料報酬が手に入る最新のライバルズコードを入手しましょう。ゲーム体験を向上させる最新ガイドをご覧ください。2025年の最新交換コードをチェック！",
+    "h2": "ライバルズゲームの包括的な交換コードデータベース",
+    "description": "ゲーム体験を向上させる様々なライバルズコードを見つけましょう。PC、PS4、Xbox、Robloxなど、各プラットフォーム向けの最新交換コードを定期的に更新しています。"
+  },
+  "category": {
+    "meta_title": "ライバルズコードのカテゴリー",
+    "meta_description": "お気に入りのゲームやプラットフォーム向けの交換コードを、カテゴリー別に閲覧できます。",
+    "homeBtn": "ホーム",
+    "categoryBtn": "カテゴリー",
+    "h1": "ライバルズコードのカテゴリー",
+    "h2": "ゲームとプラットフォーム別の交換コード",
+    "h2description": "すべてのライバルズコードは、簡単に見つけられるようゲームとプラットフォーム別に分類されています。"
+  },
+  "article": {
+    "meta_title": "ライバルズコードの記事",
+    "meta_description": "人気ゲームの交換コードに関するヒント、コツ、最新情報を掲載した記事をご覧ください。",
+    "h1": "記事一覧",
+    "h2": "ライバルズコードについてもっと詳しく",
+    "homeBtn": "ホーム",
+    "articleBtn": "記事",
+    "backToArticles": "記事一覧に戻る"
+  },
+  "changelog": {
+    "meta_title": "ライバルズコードの更新履歴",
+    "meta_description": "ライバルズコードデータベースの最新の更新情報をご確認ください。",
+    "h1": "更新履歴",
+    "h2": "ライバルズコードの最新アップデート",
+    "homeBtn": "ホーム",
+    "changelogBtn": "更新履歴"
+  },
+  "tools": {
+    "meta_description": "ライバルズコードを最大限活用するための必須ツールとリソースをご覧ください。",
+    "h2_1": "開発者向けツール：",
+    "h2_2": "ライバルズコード",
+    "homeBtn": "ホーム"
+  },
+  "search": {
+    "input_placeholder": "ゲーム/プラットフォームでライバルズコードを検索...",
+    "heading": "おすすめ",
+    "more": "もっと見る",
+    "button": "検索"
+  },
+  "navigation": {
+    "homeBtn": "ホーム",
+    "categoryBtn": "カテゴリー",
+    "moreCategoryBtn": "もっと見る",
+    "moreCategoryDescription": "その他のカテゴリー",
+    "articleBtn": "記事",
+    "articleDescription": "ライバルズコードに関する最新ニュースとヒントをチェック",
+    "article1Title": "マーベル ライバルズコードで報酬をアンロック",
+    "article2Title": "ニード・フォー・スピード ライバルズコードで最高の楽しみ方",
+    "moreArticleBtn": "もっと見る",
+    "moreArticleDescription": "その他の記事を見る",
+    "changelogBtn": "ウェブゲームをプレイ",
+    "submitToolBtn": "ライバルズコードを投稿"
+  },
+  "footer": {
+    "description": "ライバルズコードとゲーム交換コードの総合プラットフォーム",
+    "builtWith": "開発ツール：",
+    "quickLinks": "クイックリンク",
+    "home": "ホーム",
+    "category": "カテゴリー",
+    "article": "記事",
+    "changelog": "更新履歴",
+    "privacy": "プライバシー",
+    "termsOfService": "利用規約",
+    "legal": "法的情報",
+    "connect": "接続",
+    "support": "サポート",
+    "copyright": "All rights reserved."
+  },
+  "toolsList": {
+    "more": "もっと見る",
+    "tools": "ツール"
+  },
+  "articleList": {
+    "h2": "記事",
+    "moreArticles": "その他の記事"
+  }
+}

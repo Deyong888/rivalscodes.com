@@ -1,0 +1,41 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+[
+  {
+    "name": "Rivals Codes Enero 2025",
+    "description": "Ang pinakabagong RIVALS code ay COMMUNITY10, na maaaring i-redeem ng mga manlalaro upang makakuha ng libreng Community Wrap.",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["Code:COMMUNITY10","Reward: Random Weapon Wrap","Expiration:Still Active"]
+  },
+  {
+    "name": "Rivals Codes Pebrero 2025",
+    "description": "Ang pinakabagong RIVALS code ay Aktibo, at ia-update bilang pangunahing prayoridad.",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["Code:roblox_rtc","Reward: I-redeem para sa 5 Keys","Expiration:Still Active"]
+  },
+  {
+    "name": "Rivals Codes Marso 2025",
+    "description": "Ang pinakabagong RIVALS code ay Aktibo, at ia-update bilang pangunahing prayoridad.",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["Code:THANKYOU_1BVISITS!","Reward: 1B Visits Wrap (Lahat ng Sandata)","Expiration:Still Active"]
+  },
+  {
+    "name": "Rivals Codes Abril 2025",
+    "description": "Ang pinakabagong RIVALS code ay Aktibo, at ia-update bilang pangunahing prayoridad.",
+    "url": "https://rivalscodes.com/article/comprehensive-roblox-rivals-codes",
+    "tags": ["Code:100MVISITS","Reward: 100M visits charm","Expiration:Still Active"]
+  }
+]

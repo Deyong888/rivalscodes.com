@@ -15,22 +15,21 @@
 
 [
   {
-    "name": "Latest Codes",
+    "name": "最新コード",
     "src": "latestcodes.jsonc",
     "link": "latestcodes",
-    "description": "Offers the most recently released codes, allowing users to access and redeem the latest game rewards first."
+    "description": "最新のゲームコードを提供し、ユーザーが最新の報酬をいち早く獲得できるようにします。"
   },
   {
-    "name": "Official Rivals Codes Channels",
+    "name": "公式ライバルズコードチャンネル",
     "src": "officialcodes.jsonc",
     "link": "officialcodes",
-    "description": "Codes categorized by Official ."
+    "description": "公式によって分類されたコード一覧。"
   },
   {
-    "name": "Popular Roblox Game Codes",
+    "name": "人気のRobloxゲームコード",
     "src": "hotgames.jsonc",
     "link": "hotgames",
-    "description": "Includes the most searched-for codes for popular games like Marvel Rivals, Need for Speed Rivals, and Beyblade Burst Rivals."
+    "description": "マーベル・ライバルズ、ニード・フォー・スピード・ライバルズ、ベイブレードバースト・ライバルズなど、人気ゲームの検索頻度の高いコードを掲載。"
   }
-
 ]

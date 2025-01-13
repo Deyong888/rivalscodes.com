@@ -15,22 +15,21 @@
 
 [
   {
-    "name": "Latest Codes",
+    "name": "Pinakabagong Mga Code",
     "src": "latestcodes.jsonc",
     "link": "latestcodes",
-    "description": "Offers the most recently released codes, allowing users to access and redeem the latest game rewards first."
+    "description": "Nag-aalok ng pinakabagong inilabas na mga code, na nagpapahintulot sa mga gumagamit na ma-access at i-redeem ang pinakabagong mga gantimpala sa laro."
   },
   {
-    "name": "Official Rivals Codes Channels",
+    "name": "Opisyal na Mga Channel ng Rivals Codes",
     "src": "officialcodes.jsonc",
     "link": "officialcodes",
-    "description": "Codes categorized by Official ."
+    "description": "Mga code na naka-categorize ayon sa Opisyal."
   },
   {
-    "name": "Popular Roblox Game Codes",
+    "name": "Mga Sikat na Roblox Game Codes",
     "src": "hotgames.jsonc",
     "link": "hotgames",
-    "description": "Includes the most searched-for codes for popular games like Marvel Rivals, Need for Speed Rivals, and Beyblade Burst Rivals."
+    "description": "Kasama ang mga pinakasearch na code para sa mga sikat na laro tulad ng Marvel Rivals, Need for Speed Rivals, at Beyblade Burst Rivals."
   }
-
 ]

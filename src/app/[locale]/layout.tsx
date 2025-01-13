@@ -32,6 +32,7 @@ export const metadata: Metadata = {
     canonical: "https://rivalscodes.com/", languages: {
       "en-US": "https://rivalscodes.com/en/",
       "zh-CN": "https://rivalscodes.com/zh/",
+      "ja-JP": "https://rivalscodes.com/ja/",
     }
   },
   icons: [
