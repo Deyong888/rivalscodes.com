@@ -16,7 +16,7 @@ export default function Comments({ pageKey, pageTitle }: CommentsProps) {
         el: '#comments',
         pageKey: pageKey,
         pageTitle: pageTitle,
-        server: 'http://data.24kwebgames.com',
+        server: 'https://data.24kwebgames.com',
         site: 'Rivals Codes',
       });
     }
