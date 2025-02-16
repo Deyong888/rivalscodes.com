@@ -11,10 +11,16 @@ import {
 } from "@/components/ui/breadcrumb"
 
 import {getTranslations} from 'next-intl/server';
+import dynamic from 'next/dynamic';
 
 type PostParams = {
   params: { slug: string }
 }
+
+// 动态导入评论组件
+const Comments = dynamic(() => import('@/components/Comments'), {
+  ssr: false
+});
 
 export async function generateMetadata({ params }: PostParams) {
   const postData = await getPostData(params.slug);
@@ -23,8 +29,6 @@ export async function generateMetadata({ params }: PostParams) {
     description: postData.description || `Read about ${postData.title} on DevToolset`,
   };
 }
-
-
 
 export default async function Post({ params }: PostParams) {
   const postData = await getPostData(params.slug);
@@ -71,6 +75,12 @@ export default async function Post({ params }: PostParams) {
           {t('backToArticles')}
         </Link>
       </div>
+
+      {/* 添加评论区 */}
+      <Comments 
+        pageKey={`/article/${params.slug}`}
+        pageTitle={postData.title}
+      />
     </article>
   );
 }
