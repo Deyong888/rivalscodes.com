@@ -12,6 +12,19 @@ date: '2025-01-11T10:20:40.737Z'
 
 Blue Lock Rivals has captured the attention of mobile gaming enthusiasts worldwide with its unique blend of soccer strategy and team management. In this comprehensive guide, we'll explore everything you need to know about Blue Lock Rivals Codes and how to maximize their benefits in your gameplay.
 
+<a href="https://sprunkigames.online" target="_blank">Click to play Incredibox Party Frozen Sprunki Beat Game</a> 
+<div class="iframe-wrapper aspect-video w-full max-w-6xl mx-auto">
+        <iframe 
+            src="https://play.gamepix.com/incredibox-party-frozen-sprunki-beat/embed?sid=1" 
+            scrolling="no" 
+            seamless
+            title="Incredibox Party Frozen Sprunki Beat"
+            class="w-full h-full rounded-lg shadow-lg"
+            allow="fullscreen"
+            style="height: 600px;"
+        ></iframe>
+</div>
+
 ## Understanding Blue Lock Rivals Codes
 
 Blue Lock Rivals Codes are special promotional combinations that players can redeem for various in-game rewards. These codes typically offer valuable resources such as:
