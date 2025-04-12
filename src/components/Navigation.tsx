@@ -57,6 +57,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
       label: t('changelogBtn'),
       href: "https://24kwebgames.com/",
     },
+    {
+      label: t('CasualGameBtn'),
+      href: "https://dirt-bike.online/",
+    },
   ];
   const isMenuItemActive = (href: string) => {
     // console.log(pathname, href);
@@ -180,6 +184,13 @@ export const Navigation = ({ categories }: navigationProp ) => {
                   <Link href="https://24kwebgames.com/" legacyBehavior passHref>
                     <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/article' === pathname && "font-extrabold")}>
                       {t('changelogBtn')}
+                    </NavigationMenuLink>
+                  </Link>
+                </NavigationMenuItem>
+                <NavigationMenuItem>
+                  <Link href="https://dirt-bike.online/" legacyBehavior passHref>
+                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium')}>
+                      {t('CasualGameBtn')}
                     </NavigationMenuLink>
                   </Link>
                 </NavigationMenuItem>
