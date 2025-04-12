@@ -50,6 +50,34 @@ export default async function Home() {
         <div className='w-full px-2 pt-10 lg:w-1/2'>
           <Search />
         </div>
+        <div className="w-full px-2 pt-10">
+          <div className="space-y-8">
+            <div className="w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
+              <div className="p-4 bg-gray-100 dark:bg-gray-700">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-white">Roblox Rivals Active Codes</h3>
+              </div>
+              <div className="relative w-full h-[600px]">
+                <iframe 
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9MIlba01kbxOhx7lpOpW3Evaw8GmhKECz9hJRCvJy8_PtmdgHHEhbj9EAmb7KL8WZThc-KlHnPIEX/pubhtml?widget=true&amp;headers=false"
+                  className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[95%] h-[95%] border-0"
+                  allowFullScreen
+                />
+              </div>
+            </div>
+            <div className="w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
+              <div className="p-4 bg-gray-100 dark:bg-gray-700">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-white">Roblox Blue Lock: Rivals Active Codes</h3>
+              </div>
+              <div className="relative w-full h-[350px]">
+                <iframe 
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_JA3eWKjNM80dmUYzJVlbSuZkRJ_tKvMBWapWdDodo2dmvwS0Hr9L3mIPyByrJ4weLeA2V4PgGXVK/pubhtml?widget=true&amp;headers=false"
+                  className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[95%] h-[95%] border-0"
+                  allowFullScreen
+                />
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       
       {categories.map((category: categoryType, index: React.Key | null | undefined) => (
