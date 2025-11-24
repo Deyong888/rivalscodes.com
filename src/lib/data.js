@@ -86,3 +86,55 @@ export function getChangelog() {
     const dataList = jsonc.parse(fs.readFileSync(dataPath, 'utf8'));
     return dataList;
 }
+
+// 读取武器数据
+export function getWeapons(locale) {
+    const weaponsPath = path.join(process.cwd(), 'data', 'json', locale, 'tools', 'weapons.jsonc');
+    try {
+        const weapons = jsonc.parse(fs.readFileSync(weaponsPath, 'utf8'));
+        if (typeof weapons === 'string') {
+            try {
+                return jsonc.parse(weapons);
+            } catch (error) {
+                console.error('二次解析失败:', error);
+                return weapons;
+            }
+        }
+        return weapons;
+    } catch (error) {
+        console.error('读取武器数据失败:', error);
+        return [];
+    }
+}
+
+// 根据ID获取单个武器
+export function getWeaponById(id, locale) {
+    const weapons = getWeapons(locale);
+    return weapons.find(weapon => weapon.id === id);
+}
+
+// 读取资产数据
+export function getAssets(locale) {
+    const assetsPath = path.join(process.cwd(), 'data', 'json', locale, 'tools', 'assets.jsonc');
+    try {
+        const assets = jsonc.parse(fs.readFileSync(assetsPath, 'utf8'));
+        if (typeof assets === 'string') {
+            try {
+                return jsonc.parse(assets);
+            } catch (error) {
+                console.error('二次解析失败:', error);
+                return assets;
+            }
+        }
+        return assets;
+    } catch (error) {
+        console.error('读取资产数据失败:', error);
+        return [];
+    }
+}
+
+// 根据ID获取单个资产
+export function getAssetById(id, locale) {
+    const assets = getAssets(locale);
+    return assets.find(asset => asset.id === id);
+}

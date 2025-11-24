@@ -8,6 +8,9 @@ import { ArticleList } from '@/components/ArticleList'
 
 import { Search } from '@/components/Search';
 import {getTranslations, getLocale} from 'next-intl/server';
+import { Link } from '@/lib/i18n';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Target, ArrowRight, TrendingUp, DollarSign } from 'lucide-react';
 
 export async function generateMetadata() {
   const t = await getTranslations('home');
@@ -29,6 +32,9 @@ type categoryType = {
 export default async function Home() {
   const locale = await getLocale();
   const t = await getTranslations('home');
+  const toolT = await getTranslations('sensitivityConverter');
+  const metaLabT = await getTranslations('metaLab');
+  const marketIndexT = await getTranslations('marketIndex');
   // categories data
   const categories = getCategories(locale);
   console.log('categories: ', categories)
@@ -50,6 +56,73 @@ export default async function Home() {
         <div className='w-full px-2 pt-10 lg:w-1/2'>
           <Search />
         </div>
+        
+        {/* 工具推荐卡片 */}
+        <div className="w-full px-2 pt-6 space-y-4">
+          <Card className="bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-950 dark:to-purple-950 border-2 border-blue-200 dark:border-blue-800">
+            <CardHeader>
+              <div className="flex items-center gap-3">
+                <Target className="w-6 h-6 text-blue-600 dark:text-blue-400" />
+                <CardTitle className="text-2xl">{toolT('pageTitle')}</CardTitle>
+              </div>
+              <CardDescription className="text-base pt-2">
+                {toolT('pageDescription')}
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <Link 
+                href="/tools/sensitivity-converter"
+                className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 font-semibold transition-colors"
+              >
+                {toolT('homeCardTitle')}
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+            </CardContent>
+          </Card>
+          
+          <Card className="bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-950 dark:to-teal-950 border-2 border-green-200 dark:border-green-800">
+            <CardHeader>
+              <div className="flex items-center gap-3">
+                <TrendingUp className="w-6 h-6 text-green-600 dark:text-green-400" />
+                <CardTitle className="text-2xl">{metaLabT('pageTitle')}</CardTitle>
+              </div>
+              <CardDescription className="text-base pt-2">
+                {metaLabT('pageDescription')}
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <Link 
+                href="/tools/meta-lab"
+                className="inline-flex items-center gap-2 text-green-600 dark:text-green-400 hover:text-green-800 dark:hover:text-green-300 font-semibold transition-colors"
+              >
+                {metaLabT('homeCardTitle')}
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+            </CardContent>
+          </Card>
+          
+          <Card className="bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-950 dark:to-orange-950 border-2 border-amber-200 dark:border-amber-800">
+            <CardHeader>
+              <div className="flex items-center gap-3">
+                <DollarSign className="w-6 h-6 text-amber-600 dark:text-amber-400" />
+                <CardTitle className="text-2xl">{marketIndexT('pageTitle')}</CardTitle>
+              </div>
+              <CardDescription className="text-base pt-2">
+                {marketIndexT('pageDescription')}
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <Link 
+                href="/tools/market-index"
+                className="inline-flex items-center gap-2 text-amber-600 dark:text-amber-400 hover:text-amber-800 dark:hover:text-amber-300 font-semibold transition-colors"
+              >
+                {marketIndexT('homeCardTitle')}
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+            </CardContent>
+          </Card>
+        </div>
+        
         <div className="w-full px-2 pt-10">
           <div className="space-y-8">
             <div className="w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">

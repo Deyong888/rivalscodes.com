@@ -1,0 +1,225 @@
+// Rivals 资产数据
+// 数据格式遵循 PRD 文档中的 Asset 接口定义
+[
+  {
+    "id": "magma_wrap",
+    "name": "Magma Wrap",
+    "type": "Wrap",
+    "rarity": "Legendary",
+    "currentValue": {
+      "keys": {
+        "min": 50,
+        "max": 70,
+        "average": 60
+      },
+      "robux": 4800,
+      "usd": 60
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 60,
+        "source": "community"
+      },
+      {
+        "date": "2024-12-25",
+        "value": 55,
+        "source": "community"
+      },
+      {
+        "date": "2024-12-15",
+        "value": 50,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 15,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Mud's Value List", "Discord Trading"]
+  },
+  {
+    "id": "ice_wrap",
+    "name": "Ice Wrap",
+    "type": "Wrap",
+    "rarity": "Epic",
+    "currentValue": {
+      "keys": {
+        "min": 20,
+        "max": 30,
+        "average": 25
+      },
+      "robux": 2000,
+      "usd": 25
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 25,
+        "source": "community"
+      },
+      {
+        "date": "2024-12-25",
+        "value": 22,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 25,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Mud's Value List"]
+  },
+  {
+    "id": "golden_charm",
+    "name": "Golden Charm",
+    "type": "Charm",
+    "rarity": "Rare",
+    "currentValue": {
+      "keys": {
+        "min": 5,
+        "max": 8,
+        "average": 6.5
+      },
+      "robux": 520,
+      "usd": 6.5
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 6.5,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 40,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Discord Trading"]
+  },
+  {
+    "id": "dragon_finisher",
+    "name": "Dragon Finisher",
+    "type": "Finisher",
+    "rarity": "Legendary",
+    "currentValue": {
+      "keys": {
+        "min": 80,
+        "max": 100,
+        "average": 90
+      },
+      "robux": 7200,
+      "usd": 90
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 90,
+        "source": "community"
+      },
+      {
+        "date": "2024-12-20",
+        "value": 85,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 5,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Mud's Value List", "Discord Trading"]
+  },
+  {
+    "id": "fire_wrap",
+    "name": "Fire Wrap",
+    "type": "Wrap",
+    "rarity": "Epic",
+    "currentValue": {
+      "keys": {
+        "min": 15,
+        "max": 25,
+        "average": 20
+      },
+      "robux": 1600,
+      "usd": 20
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 20,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 30,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Discord Trading"]
+  },
+  {
+    "id": "silver_charm",
+    "name": "Silver Charm",
+    "type": "Charm",
+    "rarity": "Uncommon",
+    "currentValue": {
+      "keys": {
+        "min": 2,
+        "max": 4,
+        "average": 3
+      },
+      "robux": 240,
+      "usd": 3
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 3,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 60,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Discord Trading"]
+  },
+  {
+    "id": "lightning_finisher",
+    "name": "Lightning Finisher",
+    "type": "Finisher",
+    "rarity": "Epic",
+    "currentValue": {
+      "keys": {
+        "min": 30,
+        "max": 40,
+        "average": 35
+      },
+      "robux": 2800,
+      "usd": 35
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 35,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 12,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Mud's Value List"]
+  },
+  {
+    "id": "neon_wrap",
+    "name": "Neon Wrap",
+    "type": "Wrap",
+    "rarity": "Rare",
+    "currentValue": {
+      "keys": {
+        "min": 8,
+        "max": 12,
+        "average": 10
+      },
+      "robux": 800,
+      "usd": 10
+    },
+    "priceHistory": [
+      {
+        "date": "2025-01-01",
+        "value": 10,
+        "source": "community"
+      }
+    ],
+    "tradeFrequency": 35,
+    "lastUpdated": "2025-01-01",
+    "sources": ["Discord Trading"]
+  }
+]
+

@@ -1,0 +1,201 @@
+// Rivals Weapon Data
+// Data format follows the Weapon interface definition in PRD document
+[
+  {
+    "id": "ak47",
+    "name": "AK-47",
+    "slot": "Primary",
+    "baseDamage": 30,
+    "headshotMultiplier": 2.0,
+    "fireRate": 0.1,
+    "dps": 300,
+    "ttk": {
+      "body": 0.4,
+      "headshot": 0.2
+    },
+    "movementSpeedModifier": -5,
+    "range": {
+      "min": 0,
+      "max": 100,
+      "damageFalloff": true
+    },
+    "specialMechanics": null,
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "m4a1",
+    "name": "M4A1",
+    "slot": "Primary",
+    "baseDamage": 25,
+    "headshotMultiplier": 2.0,
+    "fireRate": 0.08,
+    "dps": 312.5,
+    "ttk": {
+      "body": 0.4,
+      "headshot": 0.2
+    },
+    "movementSpeedModifier": -3,
+    "range": {
+      "min": 0,
+      "max": 120,
+      "damageFalloff": true
+    },
+    "specialMechanics": null,
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "awp",
+    "name": "AWP",
+    "slot": "Primary",
+    "baseDamage": 100,
+    "headshotMultiplier": 3.0,
+    "fireRate": 1.5,
+    "dps": 66.7,
+    "ttk": {
+      "body": 1.5,
+      "headshot": 0
+    },
+    "movementSpeedModifier": -15,
+    "range": {
+      "min": 0,
+      "max": 500,
+      "damageFalloff": false
+    },
+    "specialMechanics": {
+      "type": "one_shot",
+      "description": "Headshot can one-shot kill",
+      "cooldown": null,
+      "duration": null
+    },
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "uzi",
+    "name": "Uzi",
+    "slot": "Primary",
+    "baseDamage": 15,
+    "headshotMultiplier": 1.5,
+    "fireRate": 0.05,
+    "dps": 300,
+    "ttk": {
+      "body": 0.35,
+      "headshot": 0.25
+    },
+    "movementSpeedModifier": 5,
+    "range": {
+      "min": 0,
+      "max": 50,
+      "damageFalloff": true
+    },
+    "specialMechanics": null,
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "rpg",
+    "name": "RPG",
+    "slot": "Primary",
+    "baseDamage": 100,
+    "headshotMultiplier": 1.0,
+    "fireRate": 2.0,
+    "dps": 50,
+    "ttk": {
+      "body": 2.0,
+      "headshot": 2.0
+    },
+    "movementSpeedModifier": -20,
+    "range": {
+      "min": 10,
+      "max": 200,
+      "damageFalloff": true
+    },
+    "specialMechanics": {
+      "type": "splash",
+      "description": "Splash damage, area damage",
+      "cooldown": 2.0,
+      "duration": null
+    },
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "pistol",
+    "name": "Pistol",
+    "slot": "Secondary",
+    "baseDamage": 20,
+    "headshotMultiplier": 2.0,
+    "fireRate": 0.15,
+    "dps": 133.3,
+    "ttk": {
+      "body": 0.6,
+      "headshot": 0.3
+    },
+    "movementSpeedModifier": 0,
+    "range": {
+      "min": 0,
+      "max": 80,
+      "damageFalloff": true
+    },
+    "specialMechanics": null,
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "katana",
+    "name": "Katana",
+    "slot": "Melee",
+    "baseDamage": 50,
+    "headshotMultiplier": 2.0,
+    "fireRate": 0.8,
+    "dps": 62.5,
+    "ttk": {
+      "body": 1.6,
+      "headshot": 0.8
+    },
+    "movementSpeedModifier": 10,
+    "range": {
+      "min": 0,
+      "max": 5,
+      "damageFalloff": false
+    },
+    "specialMechanics": {
+      "type": "block",
+      "description": "Can block attacks",
+      "cooldown": 1.0,
+      "duration": 0.5
+    },
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  },
+  {
+    "id": "flamethrower",
+    "name": "Flamethrower",
+    "slot": "Primary",
+    "baseDamage": 10,
+    "headshotMultiplier": 1.0,
+    "fireRate": 0.1,
+    "dps": 100,
+    "ttk": {
+      "body": 1.0,
+      "headshot": 1.0
+    },
+    "movementSpeedModifier": -10,
+    "range": {
+      "min": 0,
+      "max": 30,
+      "damageFalloff": true
+    },
+    "specialMechanics": {
+      "type": "burn",
+      "description": "Continuous damage effect",
+      "cooldown": null,
+      "duration": 3.0
+    },
+    "lastUpdated": "2025-01-01",
+    "version": "1.0"
+  }
+]
+
